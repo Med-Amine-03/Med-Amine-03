@@ -16,7 +16,7 @@
 - Data Science master's student at the **Faculty of Sciences of Monastir** (Tunisia)
 - I build AI projects end to end: data preparation, model training and honest evaluation, then deployment behind an API
 - Final-year internship at the **LATIS lab (ENISo)**: deep learning for breast cancer detection in mammograms
-- Looking for an **internship or a work-study position** in Data Science / AI
+- Looking for an **internship, a part-time role or a work-study position** in Data Science / AI
 
 ---
 
@@ -91,10 +91,10 @@
 
 ### Currently
 
-- Learning classic data science on tabular data, MLOps (experiment tracking, Kubeflow) and AI agents
+- Learning classic data science on tabular data, MLOps and AI agents ([Google Cloud MLOps: Getting Started](https://www.skills.google/public_profiles/77dcd922-add7-48b9-8dda-c78df45d3a50/badges/29206522) completed)
 - Building my next data science project, with a baseline, evaluation and a live demo
 
 <div align="center">
   <br>
-  <i>Open to internships and work-study positions in Data Science / AI. Let's talk.</i>
+  <i>Open to internships, part-time and work-study positions in Data Science / AI. Let's talk.</i>
 </div>
